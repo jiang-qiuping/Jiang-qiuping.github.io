@@ -1,0 +1,19 @@
+# main links links
+main:
+  - title: "About Me"
+    url: "/#about-me"
+
+  - title: "Research Interests"
+    url: "/#r-interests"
+
+  - title: "Selected Publications"
+    url: "/#pub"
+
+  - title: "Honors and Awards"
+    url: "/#ha"
+
+  - title: "Main Research Projects"
+    url: "/#funding"
+
+  - title: "Academic Service"
+    url: "/#Service"
