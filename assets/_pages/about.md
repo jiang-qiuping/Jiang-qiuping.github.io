@@ -98,7 +98,7 @@ Immersive Multimedia Computing.</p>
   <table align="center" border="none">
   <tr>
       <td>
-        <img align="left" width="330" height="240" src="../images/RealSRQ_KLTSRQA.PNG"/>
+        <img align="left" width="700" height="500" src="../images/RealSRQ_KLTSRQA.PNG"/>
       </td>
       <td>
         <p text-align="left">
@@ -113,7 +113,7 @@ Immersive Multimedia Computing.</p>
   <table align="center" border="none">
    <tr>
       <td>
-        <img align="left" width="330" height="240" src="../images/ACM.png"/>
+        <img align="left" width="700" height="500" src="../images/ACM.png"/>
       </td>
       <td>
         <p text-align="left">
@@ -124,7 +124,7 @@ Immersive Multimedia Computing.</p>
     </tr>
    <tr>
       <td>
-        <img align="left" width="330" height="240" src="../images/DEHN.png"/>
+        <img align="left" width="700" height="500" src="../images/DEHN.png"/>
       </td>
       <td>
         <p text-align="left">
@@ -139,7 +139,7 @@ Immersive Multimedia Computing.</p>
   <table align="center" border="none">
   <tr>
       <td>
-        <img align="left" width="330" height="240" src="../images/MCOLE.png"/>
+        <img align="left" width="700" height="500" src="../images/MCOLE.png"/>
       </td>
       <td>
         <p text-align="left">
@@ -154,7 +154,7 @@ Immersive Multimedia Computing.</p>
   <table align="center" border="none">
   <tr>
       <td>
-        <img align="left" width="330" height="240" src="../images/FSANet.png"/>
+        <img align="left" width="700" height="500" src="../images/FSANet.png"/>
       </td>
       <td>
         <p text-align="left">
@@ -166,7 +166,7 @@ Immersive Multimedia Computing.</p>
     </tr>
   <tr>
       <td>
-        <img align="left" width="330" height="240" src="../images/WaveNet.png"/>
+        <img align="left" width="700" height="500" src="../images/WaveNet.png"/>
       </td>
       <td>
         <p text-align="left">
