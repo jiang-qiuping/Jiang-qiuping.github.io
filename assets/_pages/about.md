@@ -71,7 +71,7 @@ Immersive Multimedia Computing.</p>
   </tr>
   <tr>
       <td>
-        <img align="left" width="700" height="400" src="../images/KLTJND.PNG"/>
+        <img align="left" width="700" height="400" src="../images/KLTJND.png"/>
       </td>
       <td>
         <p text-align="left">
