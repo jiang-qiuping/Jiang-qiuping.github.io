@@ -95,7 +95,7 @@ Immersive Multimedia Computing.</p>
   </tr>
   <tr>
       <td>
-        <img align="left" width="700" height="500" src="../images/ResJND.png"/>
+        <img align="left" width="700" height="500" src="../images/CD-Reasoning.png"/>
       </td>
       <td>
         <p text-align="left">
