@@ -117,7 +117,7 @@ Immersive Multimedia Computing.</p>
         <img align="left" width="700" height="400" src="../images/RealSRQ_KLTSRQA.png"/>
       </td>
       <td>
-        <p text-align="left">
+        <p style="text-align: justify">
         <b>Qiuping Jiang</b>, Zhentao Liu*, Ke Gu, Feng Shao, Xinfeng Zhang, Hantao Liu, Weisi Lin. Single Image Super-Resolution Quality Assessment: A Real-World Dataset, Subjective Studies, and an Objective Metric. IEEE Transactions on Image Processing (TIP), 2022. <b>(Top50 Popular Articles)</b>
         <a href="https://ieeexplore.ieee.org/document/9727079">[Paper-Link]</a>
         <a href="https://github.com/Zhentao-Liu/RealSRQ-KLTSRQA">[Code & Dataset-Link]</a>
@@ -129,7 +129,7 @@ Immersive Multimedia Computing.</p>
         <img align="left" width="700" height="400" src="../images/CDTIQ.png"/>
       </td>
       <td>
-        <p text-align="left">
+        <p style="text-align: justify">
         <b>Qiuping Jiang</b>, Xiwen Li, Xinyi Wang*, Zhihua Wang, Guangtao Zhai. Dataset and Metric for Quality Assessment of HDR Tone Mapping: Detail Visibility, Color Naturalness, and Overall Quality. IEEE Transactions on Multimedia (TMM), 2025.
         <a href="https://ieeexplore.ieee.org/abstract/document/10855594/">[Paper-Link]</a>
         <a href="https://github.com/zzeu001/CDTIQ">[Code & Dataset-Link]</a>
@@ -141,7 +141,7 @@ Immersive Multimedia Computing.</p>
         <img align="left" width="700" height="400" src="../images/TIP19.png"/>
       </td>
       <td>
-        <p text-align="left">
+        <p style="text-align: justify">
        <b>Qiuping Jiang</b>, Feng Shao*, Wei Gao, Zhuo Chen, Gangyi Jiang, Yo-Sung Ho. Unified No-Reference Quality Assessment of Singly and Multiply Distorted Stereoscopic Images. IEEE Transactions on Image Processing (TIP), 2019. 
         <a href="https://ieeexplore.ieee.org/abstract/document/8540445/">[Paper-Link]</a>
         </p>
@@ -152,7 +152,7 @@ Immersive Multimedia Computing.</p>
         <img align="left" width="700" height="400" src="../images/TCSVT2019.png"/>
       </td>
       <td>
-        <p text-align="left">
+        <p style="text-align: justify">
         <b>Qiuping Jiang</b>, Feng Shao*, Weisi Lin, Gangyi Jiang. BLIQUE-TMI: Blind Quality Evaluator for Tone-Mapped Images Based on Local and Global Feature Analyses. IEEE Transactions on Circuits Systems for Video Technology (TCSVT), 2019. 
         <a href="https://ieeexplore.ieee.org/abstract/document/8214257/">[Paper-Link]</a>
         </p>
@@ -166,7 +166,7 @@ Immersive Multimedia Computing.</p>
         <img align="left" width="700" height="400" src="../images/ACM.png"/>
       </td>
       <td>
-        <p text-align="left">
+        <p style="text-align: justify">
         Wu Chen, Hehe Fan, <b>Qiuping Jiang*</b>, Chao Huang, Yi Yang. Progressive Point Cloud Denoising with Cross-Stage Cross-Coder Adaptive Edge Graph Convolution Network. ACM International Conference on Multimedia (ACM MM), 2024. 
         <a href="https://openreview.net/pdf?id=LOJdqiqbAt">[Paper-Link]</a>
         </p>
@@ -177,7 +177,7 @@ Immersive Multimedia Computing.</p>
         <img align="left" width="700" height="400" src="../images/DEHN.png"/>
       </td>
       <td>
-        <p text-align="left">
+        <p style="text-align: justify">
         Wu Chen, <b>Qiuping Jiang*</b>, Wei Zhou, Long Xu, Weisi Lin. Dynamic Hypergraph Convolutional Network for No-Reference Point Cloud Quality Assessment. IEEE Transactions on Circuits Systems for Video Technology (TCSVT), 2024.       
         <a href="https://ieeexplore.ieee.org/abstract/document/10549980">[Paper-Link]</a>
         <a href="https://github.com/chenwuwq/DHCN">[Code-Link]</a>
@@ -192,7 +192,7 @@ Immersive Multimedia Computing.</p>
         <img align="left" width="700" height="400" src="../images/MCOLE.png"/>
       </td>
       <td>
-        <p text-align="left">
+        <p style="text-align: justify">
         <b>Qiuping Jiang</b>, Xiao Yi, Li Ouyang, Jingchun Zhou, Zhihua Wang*. Towards Dimension-Enriched Underwater Image Quality Assessment. IEEE Transactions on Circuits Systems for Video Technology (TCSVT), 2024. 
         <a href="https://ieeexplore.ieee.org/document/10689635">[Paper-Link]</a>
         <a href="https://github.com/0117Tzx/MCOLE">[Code-Link]</a>
@@ -207,7 +207,7 @@ Immersive Multimedia Computing.</p>
         <img align="left" width="700" height="400" src="../images/FSANet.png"/>
       </td>
       <td>
-        <p text-align="left">
+        <p style="text-align: justify">
         <b>Qiuping Jiang</b>, Jinguang Cheng, Zongwei Wu, Runmin Cong, Radu Timofte. High-Precision Dichotomous Image Segmentation With Frequency and Scale Awareness. IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2024.
         <a href="https://ieeexplore.ieee.org/document/10638122">[Paper-Link]</a>
         <a href="https://github.com/chasecjg/FSANet">[Code-Link]</a>
@@ -219,7 +219,7 @@ Immersive Multimedia Computing.</p>
         <img align="left" width="700" height="400" src="../images/WaveNet.png"/>
       </td>
       <td>
-        <p text-align="left">
+        <p style="text-align: justify">
         Wujie Zhou, Fan Sun, <b>Qiuping Jiang*</b>, Runmin Cong, Jenq-Neng Hwang. WaveNet: Wavelet Network With Knowledge Distillation for RGB-T Salient Object Detection. IEEE Transactions on Image Processing (TIP), 2023.
         <a href="https://ieeexplore.ieee.org/document/10127616">[Paper-Link]</a>
         <a href="https://github.com/nowander/WaveNet">[Code-Link]</a>
