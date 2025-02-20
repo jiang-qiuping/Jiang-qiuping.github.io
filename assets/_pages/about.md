@@ -59,7 +59,7 @@ Immersive Multimedia Computing.</p>
   <table align="center" border="none">
   <tr>
       <td>
-        <img align="left" width="700" height="500" src="../images/CDi-Net.png"/>
+        <img align="left" width="700" height="400" src="../images/CDi-Net.png"/>
       </td>
       <td>
         <p text-align="left">
@@ -71,7 +71,7 @@ Immersive Multimedia Computing.</p>
   </tr>
   <tr>
       <td>
-        <img align="left" width="700" height="500" src="../images/KLTJND.PNG"/>
+        <img align="left" width="700" height="400" src="../images/KLTJND.PNG"/>
       </td>
       <td>
         <p text-align="left">
@@ -83,7 +83,7 @@ Immersive Multimedia Computing.</p>
   </tr>
   <tr>
       <td>
-        <img align="left" width="700" height="500" src="../images/ResJND.png"/>
+        <img align="left" width="700" height="400" src="../images/ResJND.png"/>
       </td>
       <td>
         <p text-align="left">
@@ -95,7 +95,7 @@ Immersive Multimedia Computing.</p>
   </tr>
   <tr>
       <td>
-        <img align="left" width="700" height="500" src="../images/CD-Reasoning.png"/>
+        <img align="left" width="700" height="400" src="../images/CD-Reasoning.png"/>
       </td>
       <td>
         <p text-align="left">
@@ -110,7 +110,7 @@ Immersive Multimedia Computing.</p>
   <table align="center" border="none">
   <tr>
       <td>
-        <img align="left" width="700" height="500" src="../images/RealSRQ_KLTSRQA.PNG"/>
+        <img align="left" width="700" height="400" src="../images/RealSRQ_KLTSRQA.PNG"/>
       </td>
       <td>
         <p text-align="left">
@@ -122,7 +122,7 @@ Immersive Multimedia Computing.</p>
   </tr>
   <tr>
       <td>
-        <img align="left" width="700" height="500" src="../images/TIP19.png"/>
+        <img align="left" width="700" height="400" src="../images/TIP19.png"/>
       </td>
       <td>
         <p text-align="left">
@@ -133,7 +133,7 @@ Immersive Multimedia Computing.</p>
   </tr>
   <tr>
       <td>
-        <img align="left" width="700" height="500" src="../images/TCSVT2019.png"/>
+        <img align="left" width="700" height="400" src="../images/TCSVT2019.png"/>
       </td>
       <td>
         <p text-align="left">
@@ -144,7 +144,7 @@ Immersive Multimedia Computing.</p>
   </tr>
   <tr>
       <td>
-        <img align="left" width="700" height="500" src="../images/CDTIQ.png"/>
+        <img align="left" width="700" height="400" src="../images/CDTIQ.png"/>
       </td>
       <td>
         <p text-align="left">
@@ -159,7 +159,7 @@ Immersive Multimedia Computing.</p>
   <table align="center" border="none">
    <tr>
       <td>
-        <img align="left" width="700" height="500" src="../images/ACM.png"/>
+        <img align="left" width="700" height="400" src="../images/ACM.png"/>
       </td>
       <td>
         <p text-align="left">
@@ -170,7 +170,7 @@ Immersive Multimedia Computing.</p>
     </tr>
    <tr>
       <td>
-        <img align="left" width="700" height="500" src="../images/DEHN.png"/>
+        <img align="left" width="700" height="400" src="../images/DEHN.png"/>
       </td>
       <td>
         <p text-align="left">
@@ -185,7 +185,7 @@ Immersive Multimedia Computing.</p>
   <table align="center" border="none">
   <tr>
       <td>
-        <img align="left" width="700" height="500" src="../images/MCOLE.png"/>
+        <img align="left" width="700" height="400" src="../images/MCOLE.png"/>
       </td>
       <td>
         <p text-align="left">
@@ -200,7 +200,7 @@ Immersive Multimedia Computing.</p>
   <table align="center" border="none">
   <tr>
       <td>
-        <img align="left" width="700" height="500" src="../images/FSANet.png"/>
+        <img align="left" width="700" height="400" src="../images/FSANet.png"/>
       </td>
       <td>
         <p text-align="left">
@@ -212,7 +212,7 @@ Immersive Multimedia Computing.</p>
     </tr>
   <tr>
       <td>
-        <img align="left" width="700" height="500" src="../images/WaveNet.png"/>
+        <img align="left" width="700" height="400" src="../images/WaveNet.png"/>
       </td>
       <td>
         <p text-align="left">
