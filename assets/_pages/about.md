@@ -55,8 +55,9 @@ Immersive Multimedia Computing.</p>
   }
 </style>
 <table align="center" border="none">
-<b>Visual perception modeling</b>
+
   <tr>
+      <b>Visual perception modeling</b>
       <td>
         <img align="left" width="700" height="400" src="../images/CDi-Net.png"/>
       </td>
