@@ -56,8 +56,8 @@ Immersive Multimedia Computing.</p>
 </style>
 <style>
   img {
-    max-width: 700px;
-    max-height: 400px;
+    max-width: 350px;
+    max-height: 150px;
   }
 </style>
 <b>Visual perception modeling</b>
