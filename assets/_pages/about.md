@@ -273,6 +273,28 @@ Immersive Multimedia Computing.</p>
     </tr>
   <tr>
       <td>
+        <img align="left" width="700" height="400" src="../images/SAM.png"/>
+      </td>
+      <td>
+        <p style="text-align: justify">
+        Binwei Xu, <b>Qiuping Jiang*</b>, Xing Zhao, Chenyang Lu, Haoran Liang, Ronghua Liang. Multidimensional Exploration of Segment Anything Model for Weakly Supervised Video Salient Object Detection. IEEE Transactions on Circuits Systems for Video Technology (TCSVT), 2024.
+        <a href="https://ieeexplore.ieee.org/abstract/document/10443051">[Paper-Link]</a>
+        </p>
+      </td>
+    </tr>
+  <tr>
+      <td>
+        <img align="left" width="700" height="400" src="../images/FSM.png"/>
+      </td>
+      <td>
+        <p style="text-align: justify">
+        Binwei Xu, <b>Qiuping Jiang*</b>, Haoran Liang, Dingwen Zhang, Ronghua Liang, Peng Chen. Learning Video Salient Object Detection Progressively from Unlabeled Videos. IEEE Transactions on Multimedia (TMM), 2024.
+        <a href="https://ieeexplore.ieee.org/abstract/document/10812846">[Paper-Link]</a>
+        </p>
+      </td>
+    </tr>
+  <tr>
+      <td>
         <img align="left" width="700" height="400" src="../images/WaveNet.png"/>
       </td>
       <td>
@@ -280,6 +302,28 @@ Immersive Multimedia Computing.</p>
         Wujie Zhou, Fan Sun, <b>Qiuping Jiang*</b>, Runmin Cong, Jenq-Neng Hwang. WaveNet: Wavelet Network With Knowledge Distillation for RGB-T Salient Object Detection. IEEE Transactions on Image Processing (TIP), 2023.
         <a href="https://ieeexplore.ieee.org/document/10127616">[Paper-Link]</a>
         <a href="https://github.com/nowander/WaveNet">[Code-Link]</a>
+        </p>
+      </td>
+    </tr>
+  <tr>
+      <td>
+        <img align="left" width="700" height="400" src="../images/DCNet.png"/>
+      </td>
+      <td>
+        <p style="text-align: justify">
+        Guanghui Yue, Houlu Xiao, Hai Xie, Tianwei Zhou, Wei Zhou, Weiqing Yan, Baoquan Zhao, Tianfu Wang, <b>Qiuping Jiang*</b>. Dual-Constraint Coarse-to-Fine Network for Camouflaged Object Detection. IEEE Transactions on Circuits Systems for Video Technology (TCSVT), 2024.
+        <a href="https://ieeexplore.ieee.org/abstract/document/10262011">[Paper-Link]</a>
+        </p>
+      </td>
+    </tr>
+  <tr>
+      <td>
+        <img align="left" width="700" height="400" src="../images/PRBE-Net.png"/>
+      </td>
+      <td>
+        <p style="text-align: justify">
+        Guanghui Yue, Shangjie Wu, Tianwei Zhou, Gang Li, Jie Du, Yu Luo, <b>Qiuping Jiang*</b>. Progressive Region-to-Boundary Exploration Network for Camouflaged Object Detection. IEEE Transactions on Multimedia (TMM), 2024.
+        <a href="https://ieeexplore.ieee.org/abstract/document/10262011">[Paper-Link]</a>
         </p>
       </td>
     </tr>
@@ -333,11 +377,11 @@ For more papers, please kindly refer to [my Google Scholar page](https://scholar
 
 # <font color="#2B6ADD"> Research Projects: </font>
 + **Hosted over 10 scientific research projects with a research budget of over 15 million yuan, some of which are as follows:**
-  - 2023-2026, National Science Foundation of China.
-  - 2020-2022, National Science Foundation of China.
-  - 2024-2027, "Leading Goose" R&D Program of Zhejiang Province.
-  - 2022-2024, Natural Science Foundation of Zhejiang (Distinguished Youth Scholar Funding).
-  - 2024-2026, "Innovation Yongjiang 2035" Key R&D Program of Ningbo
+  - 2023-2026, PI, National Natural Science Foundation of China(Grant No.62271277)
+  - 2020-2022, PI, National Natural Science Foundation of China(Grant No.61901236)
+  - 2024-2027, PI, "Leading Goose" Key R&D Program of Zhejiang Province(Grant No.2025C01069)
+  - 2022-2024, PI, Natural Science Foundation of Zhejiang (Distinguished Youth Scholar Funding)(Grant No.LR22F020002)
+  - 2024-2026, PI, "Innovation Yongjiang 2035" Key R&D Program of Ningbo(Grant No.2024Z292)
 
 <span class='anchor' id='Service'></span>
 
