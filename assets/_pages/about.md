@@ -54,7 +54,6 @@ Immersive Multimedia Computing.</p>
     border-color: transparent;
   }
 </style>
-<table align="center" border="none">
 + **Visual perception modeling**
   <table align="center" border="none">
   <tr>
@@ -157,7 +156,7 @@ Immersive Multimedia Computing.</p>
   </table>
 + **Point cloud quality assessment and denoising**
   <table align="center" border="none">
-   <tr>
+  <tr>
       <td>
         <img align="left" width="700" height="400" src="../images/ACM.png"/>
       </td>
@@ -168,7 +167,7 @@ Immersive Multimedia Computing.</p>
         </p>
       </td>
     </tr>
-   <tr>
+  <tr>
       <td>
         <img align="left" width="700" height="400" src="../images/DEHN.png"/>
       </td>
@@ -248,10 +247,7 @@ Immersive Multimedia Computing.</p>
         </p>
       </td>
     </tr> -->
-
-
 For more papers, please kindly refer to [my Google Scholar page](https://scholar.google.com/citations?user=PbPTiKYAAAAJ&hl=zh-CN&oi=ao).
-</table>
 
 <!--<span class='anchor' id='ha'></span>
 
