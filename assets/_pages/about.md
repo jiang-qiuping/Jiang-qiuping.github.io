@@ -282,7 +282,7 @@ Immersive Multimedia Computing.</p>
     </tr>
   <tr>
       <td>
-        <img align="left" width="700" height="400" src="../images/CCL-Net.png"/>
+        <img align="left" width="700" height="400" src="../images/SPDF.png"/>
       </td>
       <td>
         <p style="text-align: justify">
@@ -412,11 +412,11 @@ For more papers, please kindly refer to [my Google Scholar page](https://scholar
 
 # <font color="#2B6ADD"> Research Projects: </font>
 + **Hosted over 10 scientific research projects with a research budget of over 15 million yuan, some of which are as follows:**
-  - 2023-2026, PI, National Natural Science Foundation of China(Grant No.62271277)
-  - 2020-2022, PI, National Natural Science Foundation of China(Grant No.61901236)
-  - 2024-2027, PI, "Leading Goose" Key R&D Program of Zhejiang Province(Grant No.2025C01069)
-  - 2022-2024, PI, Natural Science Foundation of Zhejiang (Distinguished Youth Scholar Funding)(Grant No.LR22F020002)
-  - 2024-2026, PI, "Innovation Yongjiang 2035" Key R&D Program of Ningbo(Grant No.2024Z292)
+  - 2023-2026, PI, National Natural Science Foundation of China (Grant No.62271277)
+  - 2020-2022, PI, National Natural Science Foundation of China (Grant No.61901236)
+  - 2024-2027, PI, "Leading Goose" Key R&D Program of Zhejiang Province (Grant No.2025C01069)
+  - 2022-2024, PI, Natural Science Foundation of Zhejiang (Distinguished Youth Scholar Funding) (Grant No.LR22F020002)
+  - 2024-2026, PI, "Innovation Yongjiang 2035" Key R&D Program of Ningbo (Grant No.2024Z292)
 
 <span class='anchor' id='Service'></span>
 
