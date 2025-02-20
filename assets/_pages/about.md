@@ -218,6 +218,29 @@ Immersive Multimedia Computing.</p>
         </p>
       </td>
     </tr>
+  <tr>
+      <td>
+        <img align="left" width="700" height="400" src="../images/wu_tmm.png"/>
+      </td>
+      <td>
+        <p style="text-align: justify">
+        Wu Chen, <b>Qiuping Jiang*</b>, Wei Zhou, Feng Shao, Guangtao Zhai, Weisi Lin. No-Reference Point Cloud Quality Assessment via Graph Convolutional Network. IEEE Transactions on Multimedia (TMM), 2024.     
+        <a href="https://ieeexplore.ieee.org/abstract/document/10814096/">[Paper-Link]</a>
+        <a href="https://github.com/chenwuwq/GC-PCQA">[Code-Link]</a>
+        </p>
+      </td>
+    </tr>
+  <tr>
+      <td>
+        <img align="left" width="700" height="400" src="../images/Plain.png"/>
+      </td>
+      <td>
+        <p style="text-align: justify">
+        Xiongli Chai, Feng Shao, Baoyang Mu, Hangwei Chen, <b>Qiuping Jiang</b>,  Yo-Sung Ho, No-Reference Point Cloud Quality Assessment via Graph Convolutional Network. IEEE Transactions on Circuits Systems for Video Technology (TCSVT), 2024.     
+        <a href="https://ieeexplore.ieee.org/abstract/document/10381826/">[Paper-Link]</a>
+        </p>
+      </td>
+    </tr>
 </table>
 <b>Underwater/low-light image processing</b>
 <table align="center" border="none">
