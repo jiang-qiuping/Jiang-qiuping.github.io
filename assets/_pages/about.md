@@ -110,6 +110,17 @@ Immersive Multimedia Computing.</p>
 <table align="center" border="none">
   <tr>
       <td>
+        <img align="left" width="700" height="400" src="../images/TCSVT2019.png"/>
+      </td>
+      <td>
+        <p text-align="left">
+        <b>Qiuping Jiang</b>, Feng Shao*, Weisi Lin, Gangyi Jiang. BLIQUE-TMI: Blind Quality Evaluator for Tone-Mapped Images Based on Local and Global Feature Analyses. IEEE Transactions on Circuits Systems for Video Technology (TCSVT), 2019. 
+        <a href="https://ieeexplore.ieee.org/abstract/document/8214257/">[Paper-Link]</a>
+        </p>
+      </td>
+  </tr>
+  <tr>
+      <td>
         <img align="left" width="700" height="400" src="../images/CDTIQ.png"/>
       </td>
       <td>
@@ -140,17 +151,6 @@ Immersive Multimedia Computing.</p>
         <p text-align="left">
        <b>Qiuping Jiang</b>, Feng Shao*, Wei Gao, Zhuo Chen, Gangyi Jiang, Yo-Sung Ho. Unified No-Reference Quality Assessment of Singly and Multiply Distorted Stereoscopic Images. IEEE Transactions on Image Processing (TIP), 2019. 
         <a href="https://ieeexplore.ieee.org/abstract/document/8540445/">[Paper-Link]</a>
-        </p>
-      </td>
-  </tr>
-  <tr>
-      <td>
-        <img align="left" width="700" height="400" src="../images/TCSVT2019.png"/>
-      </td>
-      <td>
-        <p text-align="left">
-        <b>Qiuping Jiang</b>, Feng Shao*, Weisi Lin, Gangyi Jiang. BLIQUE-TMI: Blind Quality Evaluator for Tone-Mapped Images Based on Local and Global Feature Analyses. IEEE Transactions on Circuits Systems for Video Technology (TCSVT), 2019. 
-        <a href="https://ieeexplore.ieee.org/abstract/document/8214257/">[Paper-Link]</a>
         </p>
       </td>
   </tr>
