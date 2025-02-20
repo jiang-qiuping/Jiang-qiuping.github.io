@@ -110,7 +110,7 @@ Immersive Multimedia Computing.</p>
   <table align="center" border="none">
   <tr>
       <td>
-        <img align="left" width="700" height="400" src="../images/RealSRQ_KLTSRQA.PNG"/>
+        <img align="left" width="700" height="400" src="../images/RealSRQ_KLTSRQA.png"/>
       </td>
       <td>
         <p text-align="left">
