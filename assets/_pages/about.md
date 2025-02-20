@@ -54,10 +54,10 @@ Immersive Multimedia Computing.</p>
     border-color: transparent;
   }
 </style>
-<table align="center" border="none">
 
+<b>Visual perception modeling</b>
+<table align="center" border="none">
   <tr>
-      <b>Visual perception modeling</b>
       <td>
         <img align="left" width="700" height="400" src="../images/CDi-Net.png"/>
       </td>
@@ -105,7 +105,9 @@ Immersive Multimedia Computing.</p>
         </p>
       </td>
   </tr>
+</table>
 <b>Image quality assessment</b>
+<table align="center" border="none">
   <tr>
       <td>
         <img align="left" width="700" height="400" src="../images/TIP19.png"/>
@@ -152,7 +154,9 @@ Immersive Multimedia Computing.</p>
         </p>
       </td>
   </tr>
+</table>
 <b>Point cloud quality assessment and denoising</b>
+<table align="center" border="none">
   <tr>
       <td>
         <img align="left" width="700" height="400" src="../images/ACM.png"/>
@@ -176,7 +180,9 @@ Immersive Multimedia Computing.</p>
         </p>
       </td>
     </tr>
+</table>
 <b>Underwater/low-light image processing</b>
+<table align="center" border="none">
   <tr>
       <td>
         <img align="left" width="700" height="400" src="../images/MCOLE.png"/>
@@ -189,6 +195,8 @@ Immersive Multimedia Computing.</p>
         </p>
       </td>
     </tr>
+</table>
+<table align="center" border="none">
 <b>Image segmentation and object detection</b>
   <tr>
       <td>
