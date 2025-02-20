@@ -66,7 +66,7 @@ Immersive Multimedia Computing.</p>
         <img align="left" width="700" height="400" src="../images/CDi-Net.png"/>
       </td>
       <td>
-        <p text-align="justify">
+        <p text-align="left"; style="text-align: justify>
         Zhihua Wang, Keshuo Xu, Keyan Ding, <b>Qiuping Jiang</b>, Yifan Zuo, Zhangkai Ni, Yuming Fang. CD-iNet: Deep Invertible Network for Perceptual Image Color Difference Measurement. International Journal of Computer Vision (IJCV), 2024.
         <a href="https://link.springer.com/article/10.1007/s11263-024-02087-7">[Paper-Link]</a>
         <a href="https://github.com/hellooks/CD-iNet">[Code-Link]</a>
@@ -78,7 +78,7 @@ Immersive Multimedia Computing.</p>
         <img align="left" width="700" height="400" src="../images/KLTJND.png"/>
       </td>
       <td>
-        <p text-align="justify">
+        <p text-align="left"; style="text-align: justify>
         <b>Qiuping Jiang*</b>, Zhentao Liu, Shiqi Wang, Feng Shao, Weisi Lin. Toward Top-Down Just Noticeable Difference Estimation of Natural Images. IEEE Transactions on Image Processing (TIP), 2022. 
         <a href="https://arxiv.org/abs/2108.05058v2">[Paper-Link]</a>
         <a href="https://github.com/Zhentao-Liu/KLT-JND">[Code-Link]</a>
@@ -90,7 +90,7 @@ Immersive Multimedia Computing.</p>
         <img align="left" width="700" height="400" src="../images/ResJND.png"/>
       </td>
       <td>
-        <p text-align="justify">
+        <p text-align="left"; style="text-align: justify>
         <b>Qiuping Jiang</b>, Feiyang Liu, Zhihua Wang*, Shiqi Wang, Weisi Lin. Rethinking and Conceptualizing Just Noticeable Difference Estimation by Residual Learning. IEEE Transactions on Circuits Systems for Video Technology (TCSVT), 2024.
         <a href="https://ieeexplore.ieee.org/abstract/document/10526290">[Paper-Link]</a>
         <a href="https://github.com/Knife646/CD-Reasoning">[Code-Link]</a>
@@ -102,7 +102,7 @@ Immersive Multimedia Computing.</p>
         <img align="left" width="700" height="400" src="../images/CD-Reasoning.png"/>
       </td>
       <td>
-        <p text-align="justify">
+        <p text-align="left"; style="text-align: justify>
         Zhihua Wang, Yu Long, <b>Qiuping Jiang</b>, Chao Huang, Xiaochun Cao. Harnessing Multi-modal Large Language Models for Measuring and Interpreting Color Differences. IEEE Transactions on Image Processing (TIP), 2025.
         <a href="https://ieeexplore.ieee.org/abstract/document/10820056">[Paper-Link]</a>
         <a href="https://github.com/LongYu-LY/CD-Reasoning">[Code-Link]</a>
