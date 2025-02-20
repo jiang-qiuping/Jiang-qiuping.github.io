@@ -56,7 +56,8 @@ Immersive Multimedia Computing.</p>
 </style>
 
 <table align="center" border="none">
-    <tr>
++ **Visual perception modeling: **
+  <tr>
       <td>
         <img align="left" width="450" height="300" src="../images/CDi-Net.png"/>
       </td>
@@ -67,8 +68,108 @@ Immersive Multimedia Computing.</p>
         <a href="https://github.com/hellooks/CD-iNet">[Code-Link]</a>
         </p>
       </td>
+  </tr>
+  <tr>
+      <td>
+        <img align="left" width="330" height="240" src="../images/KLTJND.PNG"/>
+      </td>
+      <td>
+        <p text-align="left">
+        <b>Qiuping Jiang*</b>, Zhentao Liu, Shiqi Wang, Feng Shao, Weisi Lin. Toward Top-Down Just Noticeable Difference Estimation of Natural Images. IEEE Transactions on Image Processing (TIP), 2022. 
+        <a href="https://arxiv.org/abs/2108.05058v2">[Paper-Link]</a>
+        <a href="https://github.com/Zhentao-Liu/KLT-JND">[Code-Link]</a>
+        </p>
+      </td>
+  </tr>
+  <tr>
+      <td>
+        <img align="left" width="330" height="240" src="../images/ResJND.png"/>
+      </td>
+      <td>
+        <p text-align="left">
+        <b>Qiuping Jiang</b>, Feiyang Liu, Zhihua Wang*, Shiqi Wang, Weisi Lin. Rethinking and Conceptualizing Just Noticeable Difference Estimation by Residual Learning. IEEE Transactions on Circuits Systems for Video Technology (TCSVT), 2024.
+        <a href="https://ieeexplore.ieee.org/abstract/document/10526290">[Paper-Link]</a>
+        <a href="https://github.com/Knife646/ResJND">[Code-Link]</a>
+        </p>
+      </td>
+  </tr>
++ **Image quality assessment**
+  <tr>
+      <td>
+        <img align="left" width="330" height="240" src="../images/RealSRQ_KLTSRQA.PNG"/>
+      </td>
+      <td>
+        <p text-align="left">
+        <b>Qiuping Jiang</b>, Zhentao Liu*, Ke Gu, Feng Shao, Xinfeng Zhang, Hantao Liu, Weisi Lin. Single Image Super-Resolution Quality Assessment: A Real-World Dataset, Subjective Studies, and an Objective Metric. IEEE Transactions on Image Processing (TIP), 2022. <b>(Top50 Popular Articles)</b>
+        <a href="https://ieeexplore.ieee.org/document/9727079">[Paper-Link]</a>
+        <a href="https://github.com/Zhentao-Liu/RealSRQ-KLTSRQA">[Code & Dataset-Link]</a>
+        </p>
+      </td>
+  </tr>
+  
++ **Point cloud quality assessment and denoising**
+   <tr>
+      <td>
+        <img align="left" width="330" height="240" src="../images/ACM.png"/>
+      </td>
+      <td>
+        <p text-align="left">
+        Wu Chen, Hehe Fan, <b>Qiuping Jiang*</b>, Chao Huang, Yi Yang. Progressive Point Cloud Denoising with Cross-Stage Cross-Coder Adaptive Edge Graph Convolution Network. ACM International Conference on Multimedia (ACM MM), 2024. 
+        <a href="https://openreview.net/pdf?id=LOJdqiqbAt">[Paper-Link]</a>
+        </p>
+      </td>
     </tr>
-    <tr>
+   <tr>
+      <td>
+        <img align="left" width="330" height="240" src="../images/DEHN.png"/>
+      </td>
+      <td>
+        <p text-align="left">
+        Wu Chen, <b>Qiuping Jiang*</b>, Wei Zhou, Long Xu, Weisi Lin. Dynamic Hypergraph Convolutional Network for No-Reference Point Cloud Quality Assessment. IEEE Transactions on Circuits Systems for Video Technology (TCSVT), 2024.       
+        <a href="https://ieeexplore.ieee.org/abstract/document/10549980">[Paper-Link]</a>
+        <a href="https://github.com/chenwuwq/DHCN">[Code-Link]</a>
+        </p>
+      </td>
+    </tr>
++ **Underwater/low-light image processing**
+  <tr>
+      <td>
+        <img align="left" width="330" height="240" src="../images/MCOLE.png"/>
+      </td>
+      <td>
+        <p text-align="left">
+        <b>Qiuping Jiang</b>, Xiao Yi, Li Ouyang, Jingchun Zhou, Zhihua Wang*. Towards Dimension-Enriched Underwater Image Quality Assessment. IEEE Transactions on Circuits Systems for Video Technology (TCSVT), 2024. 
+        <a href="https://ieeexplore.ieee.org/document/10689635">[Paper-Link]</a>
+        <a href="https://github.com/0117Tzx/MCOLE">[Code-Link]</a>
+        </p>
+      </td>
+    </tr>
++ **Image segmentation and object detection**
+  <tr>
+      <td>
+        <img align="left" width="330" height="240" src="../images/FSANet.png"/>
+      </td>
+      <td>
+        <p text-align="left">
+        <b>Qiuping Jiang</b>, Jinguang Cheng, Zongwei Wu, Runmin Cong, Radu Timofte. High-Precision Dichotomous Image Segmentation With Frequency and Scale Awareness. IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2024.
+        <a href="https://ieeexplore.ieee.org/document/10638122">[Paper-Link]</a>
+        <a href="https://github.com/chasecjg/FSANet">[Code-Link]</a>
+        </p>
+      </td>
+    </tr>
+  <tr>
+      <td>
+        <img align="left" width="330" height="240" src="../images/WaveNet.png"/>
+      </td>
+      <td>
+        <p text-align="left">
+        Wujie Zhou, Fan Sun, <b>Qiuping Jiang*</b>, Runmin Cong, Jenq-Neng Hwang. WaveNet: Wavelet Network With Knowledge Distillation for RGB-T Salient Object Detection. IEEE Transactions on Image Processing (TIP), 2023.
+        <a href="https://ieeexplore.ieee.org/document/10127616">[Paper-Link]</a>
+        <a href="https://github.com/nowander/WaveNet">[Code-Link]</a>
+        </p>
+      </td>
+    </tr>
+<!--    <tr>
       <td>
         <img align="left" width="330" height="240" src="../images/HCLR_Net.png"/>
       </td>
@@ -91,105 +192,10 @@ Immersive Multimedia Computing.</p>
         <a href="https://link.springer.com/article/10.1007/s11263-023-01853-3">[Paper-Link]</a>
         </p>
       </td>
-    </tr>
-    <tr>
-      <td>
-        <img align="left" width="330" height="240" src="../images/WaveNet.png"/>
-      </td>
-      <td>
-        <p text-align="left">
-        Wujie Zhou, Fan Sun, <b>Qiuping Jiang*</b>, Runmin Cong, Jenq-Neng Hwang. WaveNet: Wavelet Network With Knowledge Distillation for RGB-T Salient Object Detection. IEEE Transactions on Image Processing (TIP), 2023.
-        <a href="https://ieeexplore.ieee.org/document/10127616">[Paper-Link]</a>
-        <a href="https://github.com/nowander/WaveNet">[Code-Link]</a>
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img align="left" width="330" height="240" src="../images/KLTJND.PNG"/>
-      </td>
-      <td>
-        <p text-align="left">
-        <b>Qiuping Jiang*</b>, Zhentao Liu, Shiqi Wang, Feng Shao, Weisi Lin. Toward Top-Down Just Noticeable Difference Estimation of Natural Images. IEEE Transactions on Image Processing (TIP), 2022. 
-        <a href="https://arxiv.org/abs/2108.05058v2">[Paper-Link]</a>
-        <a href="https://github.com/Zhentao-Liu/KLT-JND">[Code-Link]</a>
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img align="left" width="330" height="240" src="../images/RealSRQ_KLTSRQA.PNG"/>
-      </td>
-      <td>
-        <p text-align="left">
-        <b>Qiuping Jiang</b>, Zhentao Liu*, Ke Gu, Feng Shao, Xinfeng Zhang, Hantao Liu, Weisi Lin. Single Image Super-Resolution Quality Assessment: A Real-World Dataset, Subjective Studies, and an Objective Metric. IEEE Transactions on Image Processing (TIP), 2022. <b>(Top50 Popular Articles)</b>
-        <a href="https://ieeexplore.ieee.org/document/9727079">[Paper-Link]</a>
-        <a href="https://github.com/Zhentao-Liu/RealSRQ-KLTSRQA">[Code & Dataset-Link]</a>
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img align="left" width="330" height="240" src="../images/ACM.png"/>
-      </td>
-      <td>
-        <p text-align="left">
-        Wu Chen, Hehe Fan, <b>Qiuping Jiang*</b>, Chao Huang, Yi Yang. Progressive Point Cloud Denoising with Cross-Stage Cross-Coder Adaptive Edge Graph Convolution Network. ACM International Conference on Multimedia (ACM MM), 2024. 
-        <a href="https://openreview.net/pdf?id=LOJdqiqbAt">[Paper-Link]</a>
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img align="left" width="330" height="240" src="../images/FSANet.png"/>
-      </td>
-      <td>
-        <p text-align="left">
-        <b>Qiuping Jiang</b>, Jinguang Cheng, Zongwei Wu, Runmin Cong, Radu Timofte. High-Precision Dichotomous Image Segmentation With Frequency and Scale Awareness. IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2024.
-        <a href="https://ieeexplore.ieee.org/document/10638122">[Paper-Link]</a>
-        <a href="https://github.com/chasecjg/FSANet">[Code-Link]</a>
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img align="left" width="330" height="240" src="../images/MCOLE.png"/>
-      </td>
-      <td>
-        <p text-align="left">
-        <b>Qiuping Jiang</b>, Xiao Yi, Li Ouyang, Jingchun Zhou, Zhihua Wang*. Towards Dimension-Enriched Underwater Image Quality Assessment. IEEE Transactions on Circuits Systems for Video Technology (TCSVT), 2024. 
-        <a href="https://ieeexplore.ieee.org/document/10689635">[Paper-Link]</a>
-        <a href="https://github.com/0117Tzx/MCOLE">[Code-Link]</a>
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img align="left" width="330" height="240" src="../images/DEHN.png"/>
-      </td>
-      <td>
-        <p text-align="left">
-        Wu Chen, <b>Qiuping Jiang*</b>, Wei Zhou, Long Xu, Weisi Lin. Dynamic Hypergraph Convolutional Network for No-Reference Point Cloud Quality Assessment. IEEE Transactions on Circuits Systems for Video Technology (TCSVT), 2024.       
-        <a href="https://ieeexplore.ieee.org/abstract/document/10549980">[Paper-Link]</a>
-        <a href="https://github.com/chenwuwq/DHCN">[Code-Link]</a>
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img align="left" width="330" height="240" src="../images/ResJND.png"/>
-      </td>
-      <td>
-        <p text-align="left">
-        <b>Qiuping Jiang</b>, Feiyang Liu, Zhihua Wang*, Shiqi Wang, Weisi Lin. Rethinking and Conceptualizing Just Noticeable Difference Estimation by Residual Learning. IEEE Transactions on Circuits Systems for Video Technology (TCSVT), 2024.
-        <a href="https://ieeexplore.ieee.org/abstract/document/10526290">[Paper-Link]</a>
-        <a href="https://github.com/Knife646/ResJND">[Code-Link]</a>
-        </p>
-      </td>
-    </tr>
+    </tr> -->
 </table>
 
-For more papers, please kindly refer to [my Google Scholar page]([https://scholar.google.com.hk/citations?user=FQfcm5oAAAAJ&hl=zh-CN&oi=ao](https://scholar.google.com/citations?user=PbPTiKYAAAAJ&hl=zh-CN&oi=ao)).
+For more papers, please kindly refer to [my Google Scholar page](https://scholar.google.com/citations?user=PbPTiKYAAAAJ&hl=zh-CN&oi=ao).
 
 <!--<span class='anchor' id='ha'></span>
 
@@ -211,12 +217,12 @@ For more papers, please kindly refer to [my Google Scholar page]([https://schola
 
 <span class='anchor' id='funding'></span>
 
-# <font color="#2B6ADD"> Main Research Projects: </font>
+# <font color="#2B6ADD"> Research Projects: </font>
 + **Hosted over 10 scientific research projects with a research budget of over 15 million yuan, some of which are as follows:**
   - 2023-2026, National Science Foundation of China.
   - 2020-2022, National Science Foundation of China.
-  - 2024-2026, "Leading Goose" R&D Program of Zhejiang Province.
-  - 2022-2024, Natural Science Foundation of Zhejiang.
+  - 2024-2027, "Leading Goose" R&D Program of Zhejiang Province.
+  - 2022-2024, Natural Science Foundation of Zhejiang (Distinguished Youth Scholar Funding).
   - 2024-2026, "Innovation Yongjiang 2035" Key R&D Program of Ningbo
 
 <span class='anchor' id='Service'></span>
@@ -224,8 +230,8 @@ For more papers, please kindly refer to [my Google Scholar page]([https://schola
 # <font color="#2B6ADD"> Academic Service </font>
 + **Associate Editors:**
   - Pattern Recognition, 2024~
-  - Displays, 2023~
-  - Journal of Visual Communication and Image Representation, 2022~
+  - Displays, 2024~
+  - Journal of Visual Communication and Image Representation, 2023~
   - IET Image Processing, 2022~
 + **(Senior) Program Committee Member:**
   - International Joint Conference on Artificial Intelligence (IJCAI)
