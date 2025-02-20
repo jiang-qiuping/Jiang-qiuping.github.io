@@ -126,6 +126,17 @@ Immersive Multimedia Computing.</p>
   </tr>
   <tr>
       <td>
+        <img align="left" width="700" height="400" src="../images/TIP19.png"/>
+      </td>
+      <td>
+        <p style="text-align: justify">
+       <b>Qiuping Jiang</b>, Feng Shao*, Wei Gao, Zhuo Chen, Gangyi Jiang, Yo-Sung Ho. Unified No-Reference Quality Assessment of Singly and Multiply Distorted Stereoscopic Images. IEEE Transactions on Image Processing (TIP), 2019. 
+        <a href="https://ieeexplore.ieee.org/abstract/document/8540445/">[Paper-Link]</a>
+        </p>
+      </td>
+  </tr>
+  <tr>
+      <td>
         <img align="left" width="700" height="400" src="../images/CDTIQ.png"/>
       </td>
       <td>
@@ -138,12 +149,24 @@ Immersive Multimedia Computing.</p>
   </tr>
   <tr>
       <td>
-        <img align="left" width="700" height="400" src="../images/TIP19.png"/>
+        <img align="left" width="700" height="400" src="../images/TMM2023.png"/>
       </td>
       <td>
         <p style="text-align: justify">
-       <b>Qiuping Jiang</b>, Feng Shao*, Wei Gao, Zhuo Chen, Gangyi Jiang, Yo-Sung Ho. Unified No-Reference Quality Assessment of Singly and Multiply Distorted Stereoscopic Images. IEEE Transactions on Image Processing (TIP), 2019. 
-        <a href="https://ieeexplore.ieee.org/abstract/document/8540445/">[Paper-Link]</a>
+        Zhihua Wang, <b>Qiuping Jiang*</b>, Shanshan Zhao, Wensen Feng, Weisi Lin. Deep Blind Image Quality Assessment Powered by Online Hard Example Mining. IEEE Transactions on Multimedia (TMM), 2023.
+        <a href="https://ieeexplore.ieee.org/abstract/document/10070789/">[Paper-Link]</a>
+        <a href="https://github.com/wangzhihua520/IQA_with_OHEM">[Code-Link]</a>
+        </p>
+      </td>
+  </tr>
+   <tr>
+      <td>
+        <img align="left" width="700" height="400" src="../images/LGGD+.png"/>
+      </td>
+      <td>
+        <p style="text-align: justify">
+       Zhenyu Peng, <b>Qiuping Jiang*</b>, Feng Shao, Wei Gao, Weisi Lin. LGGD+: Image Retargeting Quality Assessment by Measuring Local and Global Geometric Distortions. IEEE Transactions on Circuits Systems for Video Technology (TCSVT), 2022. 
+        <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9537816">[Paper-Link]</a>
         </p>
       </td>
   </tr>
@@ -155,6 +178,17 @@ Immersive Multimedia Computing.</p>
         <p style="text-align: justify">
         <b>Qiuping Jiang</b>, Feng Shao*, Weisi Lin, Gangyi Jiang. BLIQUE-TMI: Blind Quality Evaluator for Tone-Mapped Images Based on Local and Global Feature Analyses. IEEE Transactions on Circuits Systems for Video Technology (TCSVT), 2019. 
         <a href="https://ieeexplore.ieee.org/abstract/document/8214257/">[Paper-Link]</a>
+        </p>
+      </td>
+  </tr>
+  <tr>
+      <td>
+        <img align="left" width="700" height="400" src="../images/StereoARS.png"/>
+      </td>
+      <td>
+        <p style="text-align: justify">
+        <b>Qiuping Jiang</b>, Zhenyu Peng, Feng Shao*, Ke Gu, Yabin Zhang, Wenjun Zhang, Weisi Lin. StereoARS: Quality Evaluation for Stereoscopic Image Retargeting With Binocular Inconsistency Detection. IEEE Transactions on Broadcasting (TBC), 2022. 
+        <a href="https://ieeexplore.ieee.org/abstract/document/9546995/">[Paper-Link]</a>
         </p>
       </td>
   </tr>
