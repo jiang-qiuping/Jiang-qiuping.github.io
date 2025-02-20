@@ -109,6 +109,17 @@ Immersive Multimedia Computing.</p>
   <table align="center" border="none">
   <tr>
       <td>
+        <img align="left" width="700" height="400" src="../images/TIP19.png"/>
+      </td>
+      <td>
+        <p text-align="left">
+        <b>Qiuping Jiang</b>, Feng Shao*, Wei Gao, Zhuo Chen, Gangyi Jiang, Yo-Sung Ho. Unified No-Reference Quality Assessment of Singly and Multiply Distorted Stereoscopic Images. IEEE Transactions on Image Processing (TIP), 2019. 
+        <a href="https://ieeexplore.ieee.org/abstract/document/8540445/">[Paper-Link]</a>
+        </p>
+      </td>
+  </tr>
+  <tr>
+      <td>
         <img align="left" width="700" height="400" src="../images/RealSRQ_KLTSRQA.png"/>
       </td>
       <td>
@@ -116,17 +127,6 @@ Immersive Multimedia Computing.</p>
         <b>Qiuping Jiang</b>, Zhentao Liu*, Ke Gu, Feng Shao, Xinfeng Zhang, Hantao Liu, Weisi Lin. Single Image Super-Resolution Quality Assessment: A Real-World Dataset, Subjective Studies, and an Objective Metric. IEEE Transactions on Image Processing (TIP), 2022. <b>(Top50 Popular Articles)</b>
         <a href="https://ieeexplore.ieee.org/document/9727079">[Paper-Link]</a>
         <a href="https://github.com/Zhentao-Liu/RealSRQ-KLTSRQA">[Code & Dataset-Link]</a>
-        </p>
-      </td>
-  </tr>
-  <tr>
-      <td>
-        <img align="left" width="700" height="400" src="../images/TIP19.png"/>
-      </td>
-      <td>
-        <p text-align="left">
-        <b>Qiuping Jiang</b>, Feng Shao*, Wei Gao, Zhuo Chen, Gangyi Jiang, Yo-Sung Ho. Unified No-Reference Quality Assessment of Singly and Multiply Distorted Stereoscopic Images. IEEE Transactions on Image Processing (TIP), 2019. 
-        <a href="https://ieeexplore.ieee.org/abstract/document/8540445/">[Paper-Link]</a>
         </p>
       </td>
   </tr>
