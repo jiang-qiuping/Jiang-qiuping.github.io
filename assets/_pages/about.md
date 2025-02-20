@@ -126,7 +126,7 @@ Immersive Multimedia Computing.</p>
       </td>
       <td>
         <p text-align="left">
-        <b>Qiuping Jiang</b>, Feng Shao*, Wei Gao , Zhuo Chen, Gangyi Jiang, Yo-Sung Ho. Unified No-Reference Quality Assessment of Singly and Multiply Distorted Stereoscopic Images. IEEE Transactions on Image Processing (TIP), 2019. 
+        <b>Qiuping Jiang</b>, Feng Shao*, Wei Gao, Zhuo Chen, Gangyi Jiang, Yo-Sung Ho. Unified No-Reference Quality Assessment of Singly and Multiply Distorted Stereoscopic Images. IEEE Transactions on Image Processing (TIP), 2019. 
         <a href="https://ieeexplore.ieee.org/abstract/document/8540445/">[Paper-Link]</a>
         </p>
       </td>
