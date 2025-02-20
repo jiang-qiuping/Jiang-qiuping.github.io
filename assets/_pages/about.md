@@ -55,8 +55,8 @@ Immersive Multimedia Computing.</p>
   }
 </style>
 
-<table align="center" border="none">
 + **Visual perception modeling: **
+  <table align="center" border="none">
   <tr>
       <td>
         <img align="left" width="450" height="300" src="../images/CDi-Net.png"/>
@@ -93,7 +93,9 @@ Immersive Multimedia Computing.</p>
         </p>
       </td>
   </tr>
+  </table>
 + **Image quality assessment**
+  <table align="center" border="none">
   <tr>
       <td>
         <img align="left" width="330" height="240" src="../images/RealSRQ_KLTSRQA.PNG"/>
@@ -106,8 +108,9 @@ Immersive Multimedia Computing.</p>
         </p>
       </td>
   </tr>
-  
+  </table>
 + **Point cloud quality assessment and denoising**
+  <table align="center" border="none">
    <tr>
       <td>
         <img align="left" width="330" height="240" src="../images/ACM.png"/>
@@ -131,7 +134,9 @@ Immersive Multimedia Computing.</p>
         </p>
       </td>
     </tr>
+  </table>
 + **Underwater/low-light image processing**
+  <table align="center" border="none">
   <tr>
       <td>
         <img align="left" width="330" height="240" src="../images/MCOLE.png"/>
@@ -144,7 +149,9 @@ Immersive Multimedia Computing.</p>
         </p>
       </td>
     </tr>
+  </table>
 + **Image segmentation and object detection**
+  <table align="center" border="none">
   <tr>
       <td>
         <img align="left" width="330" height="240" src="../images/FSANet.png"/>
@@ -169,6 +176,7 @@ Immersive Multimedia Computing.</p>
         </p>
       </td>
     </tr>
+  </table>
 <!--    <tr>
       <td>
         <img align="left" width="330" height="240" src="../images/HCLR_Net.png"/>
@@ -193,7 +201,7 @@ Immersive Multimedia Computing.</p>
         </p>
       </td>
     </tr> -->
-</table>
+
 
 For more papers, please kindly refer to [my Google Scholar page](https://scholar.google.com/citations?user=PbPTiKYAAAAJ&hl=zh-CN&oi=ao).
 
