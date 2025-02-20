@@ -151,6 +151,7 @@ Immersive Multimedia Computing.</p>
         <p text-align="left">
         <b>Qiuping Jiang</b>, Feng Shao*, Weisi Lin, Gangyi Jiang. BLIQUE-TMI: Blind Quality Evaluator for Tone-Mapped Images Based on Local and Global Feature Analyses. IEEE Transactions on Circuits Systems for Video Technology (TCSVT), 2019. 
         <a href="https://ieeexplore.ieee.org/abstract/document/8214257/">[Paper-Link]</a>
+        </p>
       </td>
   </tr>
 </table>
