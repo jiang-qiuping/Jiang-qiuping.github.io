@@ -106,6 +106,32 @@ Immersive Multimedia Computing.</p>
       </td>
   </tr>
 </table>
+<b>Point cloud quality assessment and denoising</b>
+<table align="center" border="none">
+  <tr>
+      <td>
+        <img align="left" width="700" height="400" src="../images/ACM.png"/>
+      </td>
+      <td>
+        <p text-align="left">
+        Wu Chen, Hehe Fan, <b>Qiuping Jiang*</b>, Chao Huang, Yi Yang. Progressive Point Cloud Denoising with Cross-Stage Cross-Coder Adaptive Edge Graph Convolution Network. ACM International Conference on Multimedia (ACM MM), 2024. 
+        <a href="https://openreview.net/pdf?id=LOJdqiqbAt">[Paper-Link]</a>
+        </p>
+      </td>
+    </tr>
+  <tr>
+      <td>
+        <img align="left" width="700" height="400" src="../images/DEHN.png"/>
+      </td>
+      <td>
+        <p text-align="left">
+        Wu Chen, <b>Qiuping Jiang*</b>, Wei Zhou, Long Xu, Weisi Lin. Dynamic Hypergraph Convolutional Network for No-Reference Point Cloud Quality Assessment. IEEE Transactions on Circuits Systems for Video Technology (TCSVT), 2024.       
+        <a href="https://ieeexplore.ieee.org/abstract/document/10549980">[Paper-Link]</a>
+        <a href="https://github.com/chenwuwq/DHCN">[Code-Link]</a>
+        </p>
+      </td>
+    </tr>
+</table>
 <b>Image quality assessment</b>
 <table align="center" border="none">
   <tr>
@@ -154,32 +180,6 @@ Immersive Multimedia Computing.</p>
         </p>
       </td>
   </tr>
-</table>
-<b>Point cloud quality assessment and denoising</b>
-<table align="center" border="none">
-  <tr>
-      <td>
-        <img align="left" width="700" height="400" src="../images/ACM.png"/>
-      </td>
-      <td>
-        <p text-align="left">
-        Wu Chen, Hehe Fan, <b>Qiuping Jiang*</b>, Chao Huang, Yi Yang. Progressive Point Cloud Denoising with Cross-Stage Cross-Coder Adaptive Edge Graph Convolution Network. ACM International Conference on Multimedia (ACM MM), 2024. 
-        <a href="https://openreview.net/pdf?id=LOJdqiqbAt">[Paper-Link]</a>
-        </p>
-      </td>
-    </tr>
-  <tr>
-      <td>
-        <img align="left" width="700" height="400" src="../images/DEHN.png"/>
-      </td>
-      <td>
-        <p text-align="left">
-        Wu Chen, <b>Qiuping Jiang*</b>, Wei Zhou, Long Xu, Weisi Lin. Dynamic Hypergraph Convolutional Network for No-Reference Point Cloud Quality Assessment. IEEE Transactions on Circuits Systems for Video Technology (TCSVT), 2024.       
-        <a href="https://ieeexplore.ieee.org/abstract/document/10549980">[Paper-Link]</a>
-        <a href="https://github.com/chenwuwq/DHCN">[Code-Link]</a>
-        </p>
-      </td>
-    </tr>
 </table>
 <b>Underwater/low-light image processing</b>
 <table align="center" border="none">
