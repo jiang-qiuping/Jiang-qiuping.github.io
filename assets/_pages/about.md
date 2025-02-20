@@ -256,6 +256,41 @@ Immersive Multimedia Computing.</p>
         </p>
       </td>
     </tr>
+   <tr>
+      <td>
+        <img align="left" width="700" height="400" src="../images/TMM2024.png"/>
+      </td>
+      <td>
+        <p style="text-align: justify">
+        <b>Qiuping Jiang</b>, Yaozu Kang, Zhihua Wang*, Wenqi Ren, Chongyi Li. Perception-Driven Deep Underwater Image Enhancement Without Paired Supervision. IEEE Transactions on Multimedia (TMM), 2024. <b>(ESI Highly Cited Paper)</b>🏆
+        <a href="https://ieeexplore.ieee.org/abstract/document/10319078">[Paper-Link]</a>
+        <a href="https://github.com/59Kkk/PDDNet">[Code-Link]</a>
+        </p>
+      </td>
+    </tr>
+  <tr>
+      <td>
+        <img align="left" width="700" height="400" src="../images/CCL-Net.png"/>
+      </td>
+      <td>
+        <p style="text-align: justify">
+        Yi Liu, <b>Qiuping Jiang*</b>, Xinyi Wang, Ting Luo, Jingchun Zhou. Underwater Image Enhancement with Cascaded Contrastive Learning. IEEE Transactions on Multimedia (TMM), 2024. 
+        <a href="https://ieeexplore.ieee.org/abstract/document/10814077">[Paper-Link]</a>
+        <a href="https://github.com/lewis081/CCL-Net">[Code-Link]</a>
+        </p>
+      </td>
+    </tr>
+  <tr>
+      <td>
+        <img align="left" width="700" height="400" src="../images/CCL-Net.png"/>
+      </td>
+      <td>
+        <p style="text-align: justify">
+        Yaozu Kang, <b>Qiuping Jiang*</b> Chongyi Li, Wenqi Ren, Hantao Liu, Pengjun Wang*. A Perception-Aware Decomposition and Fusion Framework for Underwater Image Enhancement.  IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2023. <b>(ESI Highly Cited Paper)</b>🏆<b>(ESI Hot Paper)</b>🔥
+        <a href="https://ieeexplore.ieee.org/abstract/document/9895452">[Paper-Link]</a>
+        </p>
+      </td>
+    </tr>
 </table>
 <table align="center" border="none">
 <b>Image segmentation and object detection</b>
@@ -299,7 +334,7 @@ Immersive Multimedia Computing.</p>
       </td>
       <td>
         <p style="text-align: justify">
-        Wujie Zhou, Fan Sun, <b>Qiuping Jiang*</b>, Runmin Cong, Jenq-Neng Hwang. WaveNet: Wavelet Network With Knowledge Distillation for RGB-T Salient Object Detection. IEEE Transactions on Image Processing (TIP), 2023. <b>(ESI Highly Cited Paper)</b>🏆🔥
+        Wujie Zhou, Fan Sun, <b>Qiuping Jiang*</b>, Runmin Cong, Jenq-Neng Hwang. WaveNet: Wavelet Network With Knowledge Distillation for RGB-T Salient Object Detection. IEEE Transactions on Image Processing (TIP), 2023. <b>(ESI Highly Cited Paper)</b>🏆
         <a href="https://ieeexplore.ieee.org/document/10127616">[Paper-Link]</a>
         <a href="https://github.com/nowander/WaveNet">[Code-Link]</a>
         </p>
