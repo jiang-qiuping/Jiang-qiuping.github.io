@@ -299,7 +299,7 @@ Immersive Multimedia Computing.</p>
       </td>
       <td>
         <p style="text-align: justify">
-        Wujie Zhou, Fan Sun, <b>Qiuping Jiang*</b>, Runmin Cong, Jenq-Neng Hwang. WaveNet: Wavelet Network With Knowledge Distillation for RGB-T Salient Object Detection. IEEE Transactions on Image Processing (TIP), 2023.
+        Wujie Zhou, Fan Sun, <b>Qiuping Jiang*</b>, Runmin Cong, Jenq-Neng Hwang. WaveNet: Wavelet Network With Knowledge Distillation for RGB-T Salient Object Detection. IEEE Transactions on Image Processing (TIP), 2023. <b>(ESI Highly Cited Paper)</b>🏆🔥
         <a href="https://ieeexplore.ieee.org/document/10127616">[Paper-Link]</a>
         <a href="https://github.com/nowander/WaveNet">[Code-Link]</a>
         </p>
