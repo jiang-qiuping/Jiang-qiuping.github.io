@@ -59,7 +59,7 @@ Immersive Multimedia Computing.</p>
   <table align="center" border="none">
   <tr>
       <td>
-        <img align="left" width="450" height="300" src="../images/CDi-Net.png"/>
+        <img align="left" width="700" height="500" src="../images/CDi-Net.png"/>
       </td>
       <td>
         <p text-align="left">
@@ -71,7 +71,7 @@ Immersive Multimedia Computing.</p>
   </tr>
   <tr>
       <td>
-        <img align="left" width="330" height="240" src="../images/KLTJND.PNG"/>
+        <img align="left" width="700" height="500" src="../images/KLTJND.PNG"/>
       </td>
       <td>
         <p text-align="left">
@@ -83,7 +83,7 @@ Immersive Multimedia Computing.</p>
   </tr>
   <tr>
       <td>
-        <img align="left" width="330" height="240" src="../images/ResJND.png"/>
+        <img align="left" width="700" height="500" src="../images/ResJND.png"/>
       </td>
       <td>
         <p text-align="left">
