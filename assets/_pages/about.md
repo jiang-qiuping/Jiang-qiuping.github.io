@@ -89,7 +89,19 @@ Immersive Multimedia Computing.</p>
         <p text-align="left">
         <b>Qiuping Jiang</b>, Feiyang Liu, Zhihua Wang*, Shiqi Wang, Weisi Lin. Rethinking and Conceptualizing Just Noticeable Difference Estimation by Residual Learning. IEEE Transactions on Circuits Systems for Video Technology (TCSVT), 2024.
         <a href="https://ieeexplore.ieee.org/abstract/document/10526290">[Paper-Link]</a>
-        <a href="https://github.com/Knife646/ResJND">[Code-Link]</a>
+        <a href="https://github.com/Knife646/CD-Reasoning">[Code-Link]</a>
+        </p>
+      </td>
+  </tr>
+  <tr>
+      <td>
+        <img align="left" width="700" height="500" src="../images/ResJND.png"/>
+      </td>
+      <td>
+        <p text-align="left">
+        Zhihua Wang, Yu Long, <b>Qiuping Jiang</b>, Chao Huang, Xiaochun Cao. Harnessing Multi-modal Large Language Models for Measuring and Interpreting Color Differences. IEEE Transactions on Image Processing (TIP), 2025.
+        <a href="https://ieeexplore.ieee.org/abstract/document/10820056">[Paper-Link]</a>
+        <a href="https://github.com/LongYu-LY/CD-Reasoning">[Code-Link]</a>
         </p>
       </td>
   </tr>
@@ -105,6 +117,40 @@ Immersive Multimedia Computing.</p>
         <b>Qiuping Jiang</b>, Zhentao Liu*, Ke Gu, Feng Shao, Xinfeng Zhang, Hantao Liu, Weisi Lin. Single Image Super-Resolution Quality Assessment: A Real-World Dataset, Subjective Studies, and an Objective Metric. IEEE Transactions on Image Processing (TIP), 2022. <b>(Top50 Popular Articles)</b>
         <a href="https://ieeexplore.ieee.org/document/9727079">[Paper-Link]</a>
         <a href="https://github.com/Zhentao-Liu/RealSRQ-KLTSRQA">[Code & Dataset-Link]</a>
+        </p>
+      </td>
+  </tr>
+  <tr>
+      <td>
+        <img align="left" width="700" height="500" src="../images/TIP19.png"/>
+      </td>
+      <td>
+        <p text-align="left">
+        <b>Qiuping Jiang</b>, Feng Shao*, Wei Gao , Zhuo Chen, Gangyi Jiang, Yo-Sung Ho. Unified No-Reference Quality Assessment of Singly and Multiply Distorted Stereoscopic Images. IEEE Transactions on Image Processing (TIP), 2019. 
+        <a href="https://ieeexplore.ieee.org/abstract/document/8540445/">[Paper-Link]</a>
+        </p>
+      </td>
+  </tr>
+  <tr>
+      <td>
+        <img align="left" width="700" height="500" src="../images/TCSVT2019.png"/>
+      </td>
+      <td>
+        <p text-align="left">
+        <b>Qiuping Jiang</b>, Feng Shao*, Weisi Lin, Gangyi Jiang. BLIQUE-TMI: Blind Quality Evaluator for Tone-Mapped Images Based on Local and Global Feature Analyses. IEEE Transactions on Circuits Systems for Video Technology (TCSVT), 2019. 
+        <a href="https://ieeexplore.ieee.org/abstract/document/8214257/">[Paper-Link]</a>
+        </p>
+      </td>
+  </tr>
+  <tr>
+      <td>
+        <img align="left" width="700" height="500" src="../images/CDTIQ.png"/>
+      </td>
+      <td>
+        <p text-align="left">
+        <b>Qiuping Jiang</b>, Xiwen Li, Xinyi Wang*, Zhihua Wang, Guangtao Zhai. Dataset and Metric for Quality Assessment of HDR Tone Mapping: Detail Visibility, Color Naturalness, and Overall Quality. IEEE Transactions on Multimedia (TMM), 2025. 
+        <a href="https://ieeexplore.ieee.org/abstract/document/10855594/">[Paper-Link]</a>
+        <a href="https://github.com/zzeu001/CDTIQ">[Code & Dataset-Link]</a>
         </p>
       </td>
   </tr>
