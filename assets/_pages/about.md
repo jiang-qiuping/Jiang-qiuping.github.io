@@ -54,7 +54,7 @@ Immersive Multimedia Computing.</p>
     border-color: transparent;
   }
 </style>
-
+<table align="center" border="none">
 + **Visual perception modeling**
   <table align="center" border="none">
   <tr>
@@ -223,6 +223,7 @@ Immersive Multimedia Computing.</p>
       </td>
     </tr>
   </table>
+
 <!--    <tr>
       <td>
         <img align="left" width="330" height="240" src="../images/HCLR_Net.png"/>
@@ -250,6 +251,7 @@ Immersive Multimedia Computing.</p>
 
 
 For more papers, please kindly refer to [my Google Scholar page](https://scholar.google.com/citations?user=PbPTiKYAAAAJ&hl=zh-CN&oi=ao).
+</table>
 
 <!--<span class='anchor' id='ha'></span>
 
