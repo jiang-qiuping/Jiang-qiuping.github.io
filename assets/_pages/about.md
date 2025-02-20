@@ -55,7 +55,7 @@ Immersive Multimedia Computing.</p>
   }
 </style>
 
-+ **Visual perception modeling: **
++ **Visual perception modeling**
   <table align="center" border="none">
   <tr>
       <td>
