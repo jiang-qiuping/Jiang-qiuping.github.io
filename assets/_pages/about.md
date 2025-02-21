@@ -244,6 +244,18 @@ Immersive Multimedia Computing.</p>
 </table>
 <b>Underwater/low-light image processing</b>
 <table align="center" border="none">
+   <tr>
+      <td>
+        <img align="left" width="700" height="400" src="../images/HCLR-Net.png"/>
+      </td>
+      <td>
+        <p style="text-align: justify">
+        Jingchun Zhou, Jiaming Sun, Chongyi Li, <b>Qiuping Jiang*</b>, Man Zhou, Kin-Man Lam, Weishi Zhang, Xianping Fu. HCLR-net: Hybrid contrastive learning regularization with locally randomized perturbation for underwater image enhancement. International Journal of Computer Vision (IJCV), 2024. <b>(ESI Highly Cited Paper)</b>🏆
+        <a href="https://link.springer.com/article/10.1007/s11263-024-01987-y">[Paper-Link]</a>
+        <a href="https://github.com/zhoujingchun03/HCLR-Net">[Code-Link]</a>
+        </p>
+      </td>
+    </tr>
   <tr>
       <td>
         <img align="left" width="700" height="400" src="../images/EDANet.png"/>
@@ -274,7 +286,7 @@ Immersive Multimedia Computing.</p>
       </td>
       <td>
         <p style="text-align: justify">
-        <b>Qiuping Jiang*</b>, Yuese Gu, Chongyi Li, Runmin Cong, Feng Shao. Underwater Image Enhancement Quality Evaluation: Benchmark Dataset and Objective Metric. IEEE Transactions on Circuits Systems for Video Technology (TCSVT), 2022. 
+        <b>Qiuping Jiang*</b>, Yuese Gu, Chongyi Li, Runmin Cong, Feng Shao. Underwater Image Enhancement Quality Evaluation: Benchmark Dataset and Objective Metric. IEEE Transactions on Circuits Systems for Video Technology (TCSVT), 2022. <b>(ESI Highly Cited Paper)</b>🏆
         <a href="https://ieeexplore.ieee.org/document/9749233/">[Paper-Link]</a>
         <a href="https://github.com/yia-yuese/SAUD-Dataset">[Code-Link]</a>
         </p>
