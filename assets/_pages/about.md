@@ -246,6 +246,18 @@ Immersive Multimedia Computing.</p>
 <table align="center" border="none">
   <tr>
       <td>
+        <img align="left" width="700" height="400" src="../images/EDANet.png"/>
+      </td>
+      <td>
+        <p style="text-align: justify">
+        <b>Qiuping Jiang</b>, Yuese Gu, Zongwei Wu, Chongyi Li, Huan Xiong, Feng Shao, Zhihua Wang*. Deep Underwater Image Quality Assessment with Explicit Degradation Awareness Embedding. IEEE Transactions on Image Processing (TIP), 2025. 
+        <a href="https://ieeexplore.ieee.org/document/10897305">[Paper-Link]</a>
+        <a href="https://github.com/yia-yuese/EDANet">[Code-Link]</a>
+        </p>
+      </td>
+    </tr>
+  <tr>
+      <td>
         <img align="left" width="700" height="400" src="../images/MCOLE.png"/>
       </td>
       <td>
@@ -253,6 +265,30 @@ Immersive Multimedia Computing.</p>
         <b>Qiuping Jiang</b>, Xiao Yi, Li Ouyang, Jingchun Zhou, Zhihua Wang*. Towards Dimension-Enriched Underwater Image Quality Assessment. IEEE Transactions on Circuits Systems for Video Technology (TCSVT), 2024. 
         <a href="https://ieeexplore.ieee.org/document/10689635">[Paper-Link]</a>
         <a href="https://github.com/0117Tzx/MCOLE">[Code-Link]</a>
+        </p>
+      </td>
+    </tr>
+   <tr>
+      <td>
+        <img align="left" width="700" height="400" src="../images/TCSVT22.png"/>
+      </td>
+      <td>
+        <p style="text-align: justify">
+        <b>Qiuping Jiang*</b>, Yuese Gu, Chongyi Li, Runmin Cong, Feng Shao. Underwater Image Enhancement Quality Evaluation: Benchmark Dataset and Objective Metric. IEEE Transactions on Circuits Systems for Video Technology (TCSVT), 2022. 
+        <a href="https://ieeexplore.ieee.org/document/9749233/">[Paper-Link]</a>
+        <a href="https://github.com/yia-yuese/SAUD-Dataset">[Code-Link]</a>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img align="left" width="700" height="400" src="../images/DA.png"/>
+      </td>
+      <td>
+        <p style="text-align: justify">
+        Shihui Wu, <b>Qiuping Jiang*</b>, Guanghui Yue, Shiqi Wang, Guangtao Zhai. Generalizable Underwater Image Quality Assessment With Curriculum Learning-Inspired Domain Adaption. IEEE Transactions on Broadcasting (TBC), 2024. 
+        <a href="https://ieeexplore.ieee.org/abstract/document/10817078">[Paper-Link]</a>
+        <a href="https://github.com/zzeu001/CLIDA">[Code-Link]</a>
         </p>
       </td>
     </tr>
@@ -286,8 +322,44 @@ Immersive Multimedia Computing.</p>
       </td>
       <td>
         <p style="text-align: justify">
-        Yaozu Kang, <b>Qiuping Jiang*</b> Chongyi Li, Wenqi Ren, Hantao Liu, Pengjun Wang*. A Perception-Aware Decomposition and Fusion Framework for Underwater Image Enhancement.  IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2023. <b>(ESI Highly Cited Paper)</b>🏆<b>(ESI Hot Paper)</b>🔥
+        Yaozu Kang, <b>Qiuping Jiang*</b> Chongyi Li, Wenqi Ren, Hantao Liu, Pengjun Wang*. A Perception-Aware Decomposition and Fusion Framework for Underwater Image Enhancement. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2023. <b>(ESI Highly Cited Paper)</b>🏆<b>(ESI Hot Paper)</b>🔥
         <a href="https://ieeexplore.ieee.org/abstract/document/9895452">[Paper-Link]</a>
+        </p>
+      </td>
+    </tr>
+  <tr>
+      <td>
+        <img align="left" width="700" height="400" src="../images/UDCN.png"/>
+      </td>
+      <td>
+        <p style="text-align: justify">
+        <b>Qiuping Jiang</b>, Yudong Mao, Runmin Cong, Wenqi Ren, Chao Huang*, Feng Shao. Unsupervised Decomposition and Correction Network for Low-Light Image Enhancement. IEEE Transactions on Intelligent Transportation Systems (TITS), 2022. 
+        <a href="https://ieeexplore.ieee.org/document/9757816">[Paper-Link]</a>
+        <a href="https://github.com/myd945/UDCN">[Code-Link]</a>
+        </p>
+      </td>
+    </tr>
+  <tr>
+      <td>
+        <img align="left" width="700" height="400" src="../images/jin_tcsvt.png"/>
+      </td>
+      <td>
+        <p style="text-align: justify">
+        Jianhui Jin, <b>Qiuping Jiang*</b>, Qingyuan Wu, Binwei Xu, Runmin Cong. Underwater Salient Object Detection via Dual-stage Self-paced Learning and Depth Emphasis. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2024. 
+        <a href="https://ieeexplore.ieee.org/document/10744585/">[Paper-Link]</a>
+        <a href="https://github.com/NIT-JJH/SPDE">[Code-Link]</a>
+        </p>
+      </td>
+    </tr>
+  <tr>
+      <td>
+        <img align="left" width="700" height="400" src="../images/BCMNet.png"/>
+      </td>
+      <td>
+        <p style="text-align: justify">
+        Jinguang Cheng, Zongwei Wu, Shuo Wang, Cédric Demonceaux, <b>Qiuping Jiang*</b>. Bidirectional Collaborative Mentoring Network for Marine Organism Detection and Beyond. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2023. 
+        <a href="https://ieeexplore.ieee.org/document/10093775/">[Paper-Link]</a>
+        <a href="https://github.com/chasecjg/BCMNet">[Code-Link]</a>
         </p>
       </td>
     </tr>
