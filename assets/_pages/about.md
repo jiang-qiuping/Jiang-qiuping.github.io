@@ -377,7 +377,7 @@ Immersive Multimedia Computing.</p>
     </tr>
 </table>
 <table align="center" border="none">
-<b>Image segmentation and object detection</b>
+<b>Image segmentation, object detection and anomaly detection</b>
   <tr>
       <td>
         <img align="left" width="700" height="400" src="../images/TNNLS2025.png"/>
@@ -387,6 +387,17 @@ Immersive Multimedia Computing.</p>
         Wujie Zhou, Bitao Jian, Yuanyuan liu, <b>Qiuping Jiang*</b>. Multiattentive Perception and Multilayer Transfer Network Using Knowledge Distillation for RGB-D Indoor Scene Parsing. IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2025.
         <a href="https://ieeexplore.ieee.org/document/11029670">[Paper-Link]</a>
         <a href="https://github.com/XUEXIKUAIL/MPMTNet">[Code-Link]</a>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img align="left" width="700" height="400" src="../images/Chaohuangtmm2025.png"/>
+      </td>
+      <td>
+        <p style="text-align: justify">
+        Chao Huang, Weiliang Huang, <b>Qiuping Jiang*</b>, Wei Wang, Jie Wen, Bob Zhang. Multimodal Evidential Learning for Open-World Weakly-Supervised Video Anomaly Detection. IEEE Transactions on Multimedia (TMM), 2025.
+        <a href="https://ieeexplore.ieee.org/document/10948323">[Paper-Link]</a>
         </p>
       </td>
     </tr>
@@ -458,6 +469,7 @@ Immersive Multimedia Computing.</p>
         </p>
       </td>
     </tr>
+  
   </table>
 
 <!--    <tr>
