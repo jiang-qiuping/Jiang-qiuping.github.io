@@ -384,7 +384,7 @@ Immersive Multimedia Computing.</p>
       </td>
       <td>
         <p style="text-align: justify">
-        Wujie Zhou, Bijian Tao, Yuanyuan liu, <b>Qiuping Jiang</b>. Multiattentive Perception and Multilayer Transfer Network Using Knowledge Distillation for RGB-D Indoor Scene Parsing. IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2025.
+        Wujie Zhou, Bijian Tao, Yuanyuan liu, <b>Qiuping Jiang*</b>. Multiattentive Perception and Multilayer Transfer Network Using Knowledge Distillation for RGB-D Indoor Scene Parsing. IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2025.
         <a href="https://ieeexplore.ieee.org/document/11029670">[Paper-Link]</a>
         <a href="https://github.com/XUEXIKUAIL/MPMTNet">[Code-Link]</a>
         </p>
