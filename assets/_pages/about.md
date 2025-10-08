@@ -262,7 +262,7 @@ Immersive Multimedia Computing.</p>
       </td>
       <td>
         <p style="text-align: justify">
-        Yi Liu, <b>Qiuping Jiang*<b>, Xingbo Li, Ting Luo, Wenqi Ren. Toward Better Than Pseudo-Reference in Underwater Image Enhancement. IEEE Transactions on Image Processing (TIP), 2025. 
+        Yi Liu, <b>Qiuping Jiang*</b>, Xingbo Li, Ting Luo, Wenqi Ren. Toward Better Than Pseudo-Reference in Underwater Image Enhancement. IEEE Transactions on Image Processing (TIP), 2025. 
         <a href="https://ieeexplore.ieee.org/document/11176916">[Paper-Link]</a>
         <a href="[https://github.com/lewis081/PSPL">[Code-Link]</a>
         </p>
