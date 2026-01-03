@@ -63,6 +63,18 @@ Immersive Multimedia Computing.</p>
 <table align="center" border="none">
   <tr>
       <td>
+        <img align="left" width="700" height="400" src="../images/IJCV2026.png"/>
+      </td>
+      <td>
+        <p style="text-align: justify">
+        <b>Qiuping Jiang</b>, Feiyang Liu, Ziqi Wang, Zhihua Wang, Shiqi Wang, Feng Shao, Guangtao Zhai, Weisi Lin. InvJND: Just Noticeable Difference Estimation via Deep Invertible Network. International Journal of Computer Vision (IJCV), 2026.
+        <a href="https://link.springer.com/article/10.1007/s11263-025-02583-4">[Paper-Link]</a>
+        <a href="https://github.com/Knife646/InvJND">[Code & Datasets-Link]</a>
+        </p>
+      </td>
+  </tr>
+  <tr>
+      <td>
         <img align="left" width="700" height="400" src="../images/CDi-Net.png"/>
       </td>
       <td>
@@ -246,6 +258,18 @@ Immersive Multimedia Computing.</p>
 <table align="center" border="none">
    <tr>
       <td>
+        <img align="left" width="700" height="400" src="../images/TIP2025_1.png"/>
+      </td>
+      <td>
+        <p style="text-align: justify">
+        Jingchun Zhou, Dehuan Zhang, Zongxin He, Qilin Gai, <b>Qiuping Jiang*</b>. Multi-Prior Fusion Transfer Plugin for Adapting In-Air Models to Underwater Image Enhancement and Detection. IEEE Transactions on Image Processing (TIP), 2025. <b>(ESI Highly Cited Paper)</b>🏆
+        <a href="https://ieeexplore.ieee.org/document/11267029?denied=">[Paper-Link]</a>
+        <a href="https://github.com/zhoujingchun03/IA2U">[Code-Link]</a>
+        </p>
+      </td>
+    </tr>
+   <tr>
+      <td>
         <img align="left" width="700" height="400" src="../images/HCLR-Net.png"/>
       </td>
       <td>
@@ -392,6 +416,18 @@ Immersive Multimedia Computing.</p>
 <b>Image segmentation, object detection and anomaly detection</b>
   <tr>
       <td>
+        <img align="left" width="700" height="400" src="../images/TIP2025_03.png"/>
+      </td>
+      <td>
+        <p style="text-align: justify">
+        Huiyang Wu, <b>Qiuping Jiang*</b>, Zongwei Wu, Runmin Cong, Cédric Demonceaux, Yi Yang. High-Resolution Underwater Creature Segmentation. IEEE Transactions on Image Processing (TIP), 2025.
+        <a href="https://ieeexplore.ieee.org/document/11267001">[Paper-Link]</a>
+        <a href="https://github.com/WHYfromNUT/RADAR">[Code & Datasets-Link]</a>
+        </p>
+      </td>
+    </tr>
+  <tr>
+      <td>
         <img align="left" width="700" height="400" src="../images/TNNLS2025.png"/>
       </td>
       <td>
@@ -527,16 +563,6 @@ For more papers, please kindly refer to [my Google Scholar page](https://scholar
 - 2015 China National Scholarship
 - 2015 ACM MM 2015 Travel Grant
 -->
-
-<span class='anchor' id='funding'></span>
-
-# <font color="#2B6ADD"> Research Projects: </font>
-+ **Hosted over 10 scientific research projects with a research budget of over 15 million yuan, some of which are as follows:**
-  - 2023-2026, PI, National Natural Science Foundation of China (Grant No.62271277)
-  - 2020-2022, PI, National Natural Science Foundation of China (Grant No.61901236)
-  - 2024-2027, PI, "Leading Goose" Key R&D Program of Zhejiang Province (Grant No.2025C01069)
-  - 2022-2024, PI, Natural Science Foundation of Zhejiang (Distinguished Youth Scholar Funding) (Grant No.LR22F020002)
-  - 2024-2026, PI, "Innovation Yongjiang 2035" Key R&D Program of Ningbo (Grant No.2024Z292)
 
 <span class='anchor' id='Service'></span>
 
