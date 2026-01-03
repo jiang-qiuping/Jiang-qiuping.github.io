@@ -270,11 +270,11 @@ Immersive Multimedia Computing.</p>
     </tr>
    <tr>
       <td>
-        <img align="left" width="700" height="400" src="../images/TIP2025_1.png"/>
+        <img align="left" width="700" height="400" src="../images/TIP2025_02222.png"/>
       </td>
       <td>
         <p style="text-align: justify">
-        Jingchun Zhou, Dehuan Zhang, Zongxin He, Qilin Gai, <b>Qiuping Jiang*</b>. Multi-Prior Fusion Transfer Plugin for Adapting In-Air Models to Underwater Image Enhancement and Detection. IEEE Transactions on Image Processing (TIP), 2025. <b>(ESI Highly Cited Paper)</b>🏆
+        Jingchun Zhou, Dehuan Zhang, Zongxin He, Qilin Gai, <b>Qiuping Jiang*</b>. Multi-Prior Fusion Transfer Plugin for Adapting In-Air Models to Underwater Image Enhancement and Detection. IEEE Transactions on Image Processing (TIP), 2025. 
         <a href="https://ieeexplore.ieee.org/document/11267029?denied=">[Paper-Link]</a>
         <a href="https://github.com/zhoujingchun03/IA2U">[Code-Link]</a>
         </p>
