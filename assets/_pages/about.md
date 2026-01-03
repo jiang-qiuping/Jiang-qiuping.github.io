@@ -256,6 +256,18 @@ Immersive Multimedia Computing.</p>
 </table>
 <b>Underwater/low-light image processing</b>
 <table align="center" border="none">
+  <tr>
+      <td>
+        <img align="left" width="700" height="400" src="../images/TIP2025_03.png"/>
+      </td>
+      <td>
+        <p style="text-align: justify">
+        Huiyang Wu, <b>Qiuping Jiang*</b>, Zongwei Wu, Runmin Cong, Cédric Demonceaux, Yi Yang. High-Resolution Underwater Creature Segmentation. IEEE Transactions on Image Processing (TIP), 2025.
+        <a href="https://ieeexplore.ieee.org/document/11267001">[Paper-Link]</a>
+        <a href="https://github.com/WHYfromNUT/RADAR">[Code & Datasets-Link]</a>
+        </p>
+      </td>
+    </tr>
    <tr>
       <td>
         <img align="left" width="700" height="400" src="../images/TIP2025_1.png"/>
@@ -414,18 +426,6 @@ Immersive Multimedia Computing.</p>
 </table>
 <table align="center" border="none">
 <b>Image segmentation, object detection and anomaly detection</b>
-  <tr>
-      <td>
-        <img align="left" width="700" height="400" src="../images/TIP2025_03.png"/>
-      </td>
-      <td>
-        <p style="text-align: justify">
-        Huiyang Wu, <b>Qiuping Jiang*</b>, Zongwei Wu, Runmin Cong, Cédric Demonceaux, Yi Yang. High-Resolution Underwater Creature Segmentation. IEEE Transactions on Image Processing (TIP), 2025.
-        <a href="https://ieeexplore.ieee.org/document/11267001">[Paper-Link]</a>
-        <a href="https://github.com/WHYfromNUT/RADAR">[Code & Datasets-Link]</a>
-        </p>
-      </td>
-    </tr>
   <tr>
       <td>
         <img align="left" width="700" height="400" src="../images/TNNLS2025.png"/>
